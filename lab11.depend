@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1479320109 source:c:\users\wesley ambrosini\desktop\css\aagain\lab11\lab11_1.cpp
+	"Account.h"
+	"BankAccount.h"
+
+1479320105 c:\users\wesley ambrosini\desktop\css\aagain\lab11\include\account.h
+	<iostream>
+	<string>
+
+1479318063 source:c:\users\wesley ambrosini\desktop\css\aagain\lab11\src\account.cpp
+	"Account.h"
+
+1479320068 source:c:\users\wesley ambrosini\desktop\css\aagain\lab11\src\bankaccount.cpp
+	"BankAccount.h"
+
+1479319879 c:\users\wesley ambrosini\desktop\css\aagain\lab11\include\bankaccount.h
+	"Account.h"
+
